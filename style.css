@@ -1,0 +1,19 @@
+.div1 {
+    border: 2px solid black;
+    width: 800px;
+    height: 250px;
+    margin: 15px;
+    padding: 20px;
+}
+.div2 {
+    width: 800px;
+    margin: 15px;
+}
+.div3 {
+    width: 800px;
+    margin: 15px;
+}
+#list {
+    width: 800px;
+    margin: -15px;
+}
